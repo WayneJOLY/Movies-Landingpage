@@ -1,4 +1,4 @@
-#🚀 Landing Page Project
+# 🚀 Landing Page Project
 
 Image:
 
@@ -14,7 +14,7 @@ Install dependencies: npm install
 Usage
 To view the landing page, open index.html in your browser.
 
-##Technologies Used
+## Technologies Used
 - **Frontend**: 
   - ![SASS](https://img.shields.io/badge/sass-%23323330.svg?style=for-the-badge&logo=sass&logoColor=%eb348f)
   
@@ -23,7 +23,7 @@ To view the landing page, open index.html in your browser.
   - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
-##📞  Contact
+## 📞  Contact
 Feel free to reach out if you’d like to collaborate or learn more about the tools I used. You can find me on LinkedIn 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerald-r-a-wayne-joly) 
